@@ -86,10 +86,10 @@ func main() {
     --------------------
     Burger: %s
     toppings: %s
-    Sauce level: %s
+    Sauce level: %d
     Customer name: %s
     Special Instructions: %s
-    Discount: %s
+    Discount: %v
     --------------------
         Thank you~!
         Come again!
