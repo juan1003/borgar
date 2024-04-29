@@ -90,6 +90,9 @@ func main() {
     Customer name: %s
     Special Instructions: %s
     Discount: %s
+    --------------------
+        Thank you~!
+        Come again!
     `
     formattedReceipt := fmt.Sprintf(receipt, burger, toppings, sauceLevel, name, instructions, discount)
     fmt.Println(formattedReceipt)
